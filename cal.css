@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .bmi-container {
+    background: rgb(137, 174, 211);
+    padding: 20px 30px;
+    border-radius: 20px;
+    text-align: center;
+  }
+
+  input {
+    margin: 10px 10px;
+    padding: 10px;
+    font-size: 16px;
+  }
+
+  button {
+    margin-top:10px;
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  #result {
+    margin-top: 15px;
+    font-size: 18px;
+  }
